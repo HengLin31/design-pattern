@@ -1,0 +1,9 @@
+[NewsObserver] userId: user 1 get msg: Article { title='title 1', content='message 1' }
+[NewsObserver] userId: user 2 get msg: Article { title='title 1', content='message 1' }
+[NewsObserver] userId: user 3 get msg: Article { title='title 1', content='message 1' }
+[NewsObserver] userId: user 1 get msg: Article { title='title 2', content='message 2' }
+[NewsObserver] userId: user 2 get msg: Article { title='title 2', content='message 2' }
+[NewsObserver] userId: user 3 get msg: Article { title='title 2', content='message 2' }
+[NewsObserver] userId: user 1 get msg: Article { title='title 3', content='message 3' }
+[NewsObserver] userId: user 2 get msg: Article { title='title 3', content='message 3' }
+[NewsObserver] userId: user 3 get msg: Article { title='title 3', content='message 3' }

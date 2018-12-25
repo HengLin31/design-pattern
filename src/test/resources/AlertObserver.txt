@@ -1,0 +1,6 @@
+[AlertObserver] userId: user 1 get message: message 1
+[AlertObserver] userId: user 2 get message: message 1
+[AlertObserver] userId: user 3 get message: message 1
+[AlertObserver] userId: user 1 get message: message 2
+[AlertObserver] userId: user 2 get message: message 2
+[AlertObserver] userId: user 3 get message: message 2
