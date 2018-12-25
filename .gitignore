@@ -1,0 +1,9 @@
+# intellij and gradle
+.idea
+.gradle
+build
+design-pattern.iml
+out
+
+#mac
+.DS_Store
