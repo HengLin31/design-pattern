@@ -21,7 +21,7 @@ class ObserverTest extends Specification {
         stringObserverGenerator.sendMessage("message 2")
 
         then:
-        stringObserverGenerator.getLog() == new File(getClass().getResource('/AlertObserver.txt').toURI()).text
+        stringObserverGenerator.getLog() == new File(getClass().getResource('/observer/AlertObserver.txt').toURI()).text
     }
 
     def "test ArticleObserver"() {
@@ -37,6 +37,6 @@ class ObserverTest extends Specification {
         articleObserverGenerator.sendMessage(new Article("title 3", "message 3"))
 
         then:
-        articleObserverGenerator.getLog() == new File(getClass().getResource('/ArticleObserver.txt').toURI()).text
+        articleObserverGenerator.getLog() == new File(getClass().getResource('/observer/ArticleObserver.txt').toURI()).text
     }
 }
