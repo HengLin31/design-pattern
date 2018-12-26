@@ -4,6 +4,7 @@
 build
 design-pattern.iml
 out
+log
 
 #mac
 .DS_Store

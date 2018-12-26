@@ -21,6 +21,11 @@ dependencies {
     // This dependency is used internally, and not exposed to consumers on their own compile classpath.
     implementation 'com.google.guava:guava:23.0'
 
+    // log
+    implementation 'org.slf4j:slf4j-api:1.7.12'
+    implementation 'org.slf4j:slf4j-log4j12:1.7.12'
+    implementation 'log4j:log4j:1.2.17'
+
     // Use the latest Groovy version for Spock testing
     testImplementation 'org.codehaus.groovy:groovy-all:2.4.15'
 
