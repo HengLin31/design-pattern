@@ -16,8 +16,8 @@ public abstract class GenericTreeNode<T> implements TreeNode<T> {
     }
 
     @Override
-    public void setValue(T value) {
-        this.value = value;
+    public void setValue(Object value) {
+        this.value = (T) value;
     }
 
     @Override
