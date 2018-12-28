@@ -1,0 +1,12 @@
+before invoke method: getKeys, param: null
+after invoke method: getKeys, param: null
+before invoke method: getValue, param: ["key1"]
+after invoke method: getValue, param: ["key1"]
+before invoke method: getValue, param: ["key2"]
+after invoke method: getValue, param: ["key2"]
+before invoke method: getValue, param: ["key3"]
+after invoke method: getValue, param: ["key3"]
+before invoke method: getValue, param: ["key4"]
+after invoke method: getValue, param: ["key4"]
+before invoke method: getValue, param: ["key5"]
+after invoke method: getValue, param: ["key5"]
