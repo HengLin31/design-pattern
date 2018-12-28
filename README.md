@@ -1,2 +1,2 @@
 # design-pattern
-java design pattern
+Code: Java. Test: Spock.
